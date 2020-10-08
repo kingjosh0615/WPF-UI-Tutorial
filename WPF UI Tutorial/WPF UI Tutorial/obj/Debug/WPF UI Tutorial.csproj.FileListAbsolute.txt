@@ -1,0 +1,15 @@
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\bin\Debug\WPF UI Tutorial.exe.config
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\bin\Debug\WPF UI Tutorial.exe
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\bin\Debug\WPF UI Tutorial.pdb
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial.csprojAssemblyReference.cache
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\MainWindow.g.cs
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\App.g.cs
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial_MarkupCompile.cache
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial_MarkupCompile.lref
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\MainWindow.baml
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial.g.resources
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF_UI_Tutorial.Properties.Resources.resources
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial.csproj.GenerateResource.cache
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial.exe
+C:\Users\WILES_JOSHUA\Documents\C# Stuff on the C Drive\WPF-UI-Tutorial\WPF UI Tutorial\WPF UI Tutorial\obj\Debug\WPF UI Tutorial.pdb
